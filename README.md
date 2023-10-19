@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 实验一 Git和Markdown基础
 
 班级： 21计科03
@@ -337,3 +338,7 @@ git rebase target_branch
 
 本次实验用到了git的基本用法，使用了git、git bash、markdown、vscode等工具，熟悉了git的基本操作，包括：创建仓库、克
 隆仓库、提交修改、查看提交历史、创建分支、切换分支、合并分支等。
+=======
+# Experiment
+python课程任务
+>>>>>>> 81ee2948f4e75fb2dd3e351043a0b0144380bf04
